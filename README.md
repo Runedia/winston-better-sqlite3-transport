@@ -69,5 +69,5 @@ logger.log({
 
 The `id` and `timestamp` columns are automatically inserted by `sqlite3`. The user can provide whatever others columns needed for tracking logging info. For example, I use `level`, `resource`, `query` and `message` in one of my projects (as shown in the example above). All logging params are stored in columns of datatype `TEXT`.
 
-forked from (punkish/winston-better-sqlite3)[https://github.com/punkish/winston-better-sqlite3]  
-I just modify (this)[https://github.com/punkish/winston-better-sqlite3/issues/1] issue.
+forked from [punkish/winston-better-sqlite3](https://github.com/punkish/winston-better-sqlite3)  
+I just modify [this](https://github.com/punkish/winston-better-sqlite3/issues/1) issue.
