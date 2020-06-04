@@ -21,5 +21,9 @@
     "devDependencies": {
         "@types/better-sqlite3": "^5.4.0",
         "@types/node": "^14.0.10"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Runedia/winston-better-sqlite3-transport.git"
     }
 }
