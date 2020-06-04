@@ -1,0 +1,25 @@
+{
+    "name": "winston-better-sqlite3-transport",
+    "description": "A better SQLite3 transport for winston",
+    "version": "1.0.0",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "author": {
+        "name": "runedia",
+        "email": "runedia@naver.com"
+    },
+    "license": "MIT",
+    "keywords": [
+        "winston",
+        "sqlite3",
+        "better-sqlite3"
+    ],
+    "dependencies": {
+        "better-sqlite3": "^5.4.0",
+        "winston-transport": "^4.3.0"
+    },
+    "devDependencies": {
+        "@types/better-sqlite3": "^5.4.0",
+        "@types/node": "^14.0.10"
+    }
+}
