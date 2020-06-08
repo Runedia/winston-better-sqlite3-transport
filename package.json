@@ -1,7 +1,7 @@
 {
     "name": "winston-better-sqlite3-transport",
     "description": "A better SQLite3 transport for winston",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "types": "index.d.ts",
     "author": {
